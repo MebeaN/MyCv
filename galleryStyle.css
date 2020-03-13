@@ -1,0 +1,41 @@
+body{
+    font-size: 15px;
+    font-style: normal;
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    left: 50px;
+    
+    border-bottom: black 5px;
+    padding-bottom: 10px;
+}
+header{
+    text-decoration: none;
+    padding: 2%;
+    background-color: burlywood;
+}
+
+
+h3 {
+    text-transform: uppercase;
+
+
+}
+img{
+    border-radius: 100%;
+    
+    padding: 10px;
+    height: 400px;
+    width: 30%;  
+}
+#Img1{
+    float: left;
+}
+#div2{
+    clear: left;
+}
+#Img4{ 
+    float: left;
+}
+#div3{
+    clear:left;
+}
