@@ -1,0 +1,411 @@
+#div1{
+    position: fixed;
+    top: 50px;
+    height: 50px;
+    left: 50px;
+    width: 300px;
+    background-color: green;
+}
+
+#div2::before{
+    content: "Ethiopia";
+}
+
+#div2{
+    position: fixed;
+    top: 100px;
+    height: 50px;
+    left: 50px;
+    width: 300px;
+    background-color: yellow;
+    
+
+}
+#div3{
+    position: fixed;
+    top: 150px;
+    height: 50px;
+    left: 50px;
+    width: 300px;
+    background-color: red;
+}
+
+
+
+#div4{
+    position: fixed;
+    top: 50px;
+    height: 50px;
+    
+    left: 400px;
+    width: 300px;
+    background-color: yellow;
+}
+
+#div5::before{
+    content: "Lithuania";
+}
+
+#div5{
+    position: fixed;
+    top: 100px;
+    height: 50px;
+    left: 400px;
+    width: 300px;
+    background-color: green;
+
+}
+#div6{
+    position: fixed;
+    top: 150px;
+    height: 50px;
+    left: 400px;
+    width: 300px;
+    background-color: red;
+}
+
+#div7{
+    position: fixed;
+    top: 50px;
+    height: 150px;
+    left: 750px;
+    width: 100px;
+    background-color: orange;
+}
+
+#div8::before{
+    content: "Cote d'Ivoire";
+}
+
+#div8{
+    position: fixed;
+    top: 50px;
+    height: 150px;
+    left: 850px;
+    width: 100px;
+    background-color: white;
+
+}
+#div9{
+    position: fixed;
+    top: 50px;
+    height: 150px;
+    left: 950px;
+    width: 100px;
+    background-color: green;
+}
+
+#div10{
+    position: fixed;
+    top: 50px;
+    height: 150px;
+    
+    left: 1100px;
+    width: 100px;
+    background-color: green;
+}
+
+#div11::before{
+    content: "Nigeria";
+}
+
+#div11{
+    position: fixed;
+    top: 50px;
+    height: 150px;
+    left: 1200px;
+    width: 100px;
+    background-color: white;
+
+}
+#div12{
+    position: fixed;
+    top: 50px;
+    height: 150px;
+    left: 1300px;
+    width: 100px;
+    background-color: green;
+}
+
+#div13{
+    position: fixed;
+    top: 250px;
+    height: 50px;
+    left: 50px;
+    width: 300px;
+    background-color: red;
+}
+
+#div14::before{
+    content: "Austria";
+}
+
+#div14{
+    position: fixed;
+    top: 300px;
+    height: 50px;
+    left: 50px;
+    width: 300px;
+    background-color: white;
+}
+
+#div15{
+    position: fixed;
+    top: 350px;
+    height: 50px;
+    left: 50px;
+    width: 300px;
+    background-color: red;
+}
+
+#div16::before{
+    content: "Bangladesh";
+}
+
+#div16{
+    position: fixed;
+    top: 250px;
+    height: 150px;
+    left: 400px;
+    width: 300px;
+    background-color: green;
+    margin-bottom: solid 5px rgb(22, 21, 21);
+}
+
+#circle1{
+    position: fixed;
+    top: 275px;
+    height: 100px;
+    left: 450px;
+    width: 100px;
+    border-radius: 50%;
+    display: inline-block;
+    background-color: red;
+}
+
+#div17{
+    position: fixed;
+    top: 250px;
+    height: 150px;
+    left: 750px;
+    width: 100px;
+    background-color: black;
+    margin-bottom: solid 5px rgb(22, 21, 21);
+}
+
+#div18::before{
+    content: "Belgium";
+}
+
+#div18{
+    position: fixed;
+    top: 250px;
+    height: 150px;
+    left: 850px;
+    width: 100px;
+    background-color: yellow;
+    margin-bottom: solid 5px rgb(22, 21, 21);
+}
+
+#div19{
+    position: fixed;
+    top: 250px;
+    height: 150px;
+    left: 950px;
+    width: 100px;
+    background-color: red;
+    margin-bottom: solid 5px rgb(22, 21, 21);
+}
+
+#div20{
+    position: fixed;
+    top: 250px;
+    height: 150px;
+    left: 1100px;
+    width: 100px;
+    background-color: green;
+    margin-bottom: solid 5px rgb(22, 21, 21);
+}
+
+#div21::before{
+    content: "Benin";
+}
+
+#div21{
+    position: fixed;
+    top: 250px;
+    height: 75px;
+    left: 1200px;
+    width: 200px;
+    background-color: yellow;
+    margin-bottom: solid 5px rgb(22, 21, 21);
+}
+
+#div22{
+    position: fixed;
+    top: 325px;
+    height: 75px;
+    left: 1200px;
+    width: 200px;
+    background-color: red;
+    margin-bottom: solid 5px rgb(22, 21, 21);
+}
+
+#div23::before{
+    content: "Japan";
+}
+
+#div23{
+    position: fixed;
+    top: 450px;
+    height: 150px;
+    left: 50px;
+    width: 300px;
+    background-color: white;
+    border: solid black 2px;
+    margin-bottom: solid 5px rgb(22, 21, 21);
+}
+
+#circle2{
+    position: fixed;
+    top: 475px;
+    height: 100px;
+    left: 150px;
+    width: 100px;
+    border-radius: 50%;
+    display: inline-block;
+    background-color: red;
+}
+
+#div24{
+    position: fixed;
+    top: 450px;
+    height: 40px;
+    left: 400px;
+    width: 300px;
+    background-color: red;
+
+}
+
+#div25::before{
+    content: "Laos";
+}
+
+#div25{
+    position: fixed;
+    top: 490px;
+    height: 70px;
+    left: 400px;
+    width: 300px;
+    background-color: blue;
+
+}
+
+#circle3{
+    position: fixed;
+    top: 495px;
+    height: 60px;
+    left: 525px;
+    width: 60px;
+    border-radius: 50%;
+    display: inline-block;
+    background-color: white;
+}
+
+#div26{
+    position: fixed;
+    top: 560px;
+    height: 40px;
+    left: 400px;
+    width: 300px;
+    background-color: red;
+
+}
+
+#div27{
+    position: fixed;
+    top: 450px;
+    height: 50px;
+
+    left: 750px;
+    width: 300px;
+    background-color: red;
+}
+
+#div28::before{
+    content: "Yemen";
+}
+
+#div28{
+    position: fixed;
+    top: 500px;
+    height: 50px;
+    left: 750px;
+    width: 300px;
+    background-color: white;
+
+}
+#div29{
+    position: fixed;
+    top: 550px;
+    height: 50px;
+    left: 750px;
+    width: 300px;
+    background-color: black;
+}
+
+#div30{
+    position: fixed;
+    top: 450px;
+    height: 150px;
+
+    left: 1100px;
+    width: 100px;
+    background-color: green;
+}
+
+#div31::before{
+    content: "Mali";
+}
+
+#div31{
+    position: fixed;
+    top: 450px;
+    height: 150px;
+    left: 1200px;
+    width: 100px;
+    background-color: yellow;
+
+}
+#div32{
+    position: fixed;
+    top: 450px;
+    height: 150px;
+    left: 1300px;
+    width: 100px;
+    background-color: red;
+}
+
+#div33::before{
+    content: "Palau";
+}
+
+#div33{
+    position: fixed;
+    top: 630px;
+    height: 150px;
+    left: 550px;
+    width: 300px;
+    background-color: rgb(0, 240, 255);
+}
+
+#circle4{
+    position: fixed;
+    top: 657px;
+    height: 100px;
+    left: 625px;
+    width: 100px;
+    display: inline-block;
+    border-radius: 50%;
+    background-color: yellow;
+}
