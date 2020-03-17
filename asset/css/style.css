@@ -66,5 +66,16 @@ img{
 }
 
 #clear{
+    padding-top: 10px ;
     clear: left;
+}
+
+.copy{
+    text-align: center;
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
 }

@@ -1,0 +1,80 @@
+body{
+    background-color:olive;
+}
+
+header{
+    padding: 2%;
+    margin-bottom: 1%;
+    background-color: rosybrown;
+}
+#first{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    padding: 5%;
+}
+
+#first>div{
+    padding-left: 5%;
+}
+
+#profile{
+    border-radius: 50%;
+}
+
+#main{
+    border-top: solid 3px blueviolet;
+    padding: 5%;
+    display: flex;
+    flex-direction: row;
+}
+
+#HI{
+    padding-right: 20%;
+}
+
+#dandj{
+    padding-right: 10%;
+}
+#indandj{
+    display: flex;
+    flex-direction: row;
+}
+
+#dates{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+}
+
+#jobs{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+}
+
+#TS{
+    padding-left: 10%;
+}
+
+#inTS{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+}
+
+#skills{
+    padding: 10px;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+}
+
+#ratings{
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+}
