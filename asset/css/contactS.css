@@ -9,25 +9,34 @@ body{
 }
 
 header{
-    background-color: dimgray;
     padding: 1%;
     padding-top: 2%;
-    padding-bottom: 2%;}
+    padding-bottom: 2%;    
+    background-color: dimgray;
+}
 
 header>a{
     text-decoration: none;
     padding: 1%;
 }
 
-img{
-    margin-right: 5%;
-    width: 300px;
-    height: 300px;
+#first{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    padding: 5%;
+}
+
+#first>div{
+    padding-left: 5%;
+}
+
+#profile{
     border-radius: 50%;
-    float: left;
 }
 
 #clear{
+    border-top: solid 3px rgb(71, 39, 100);
     padding-top: 2% ;
     clear: left;
 }

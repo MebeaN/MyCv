@@ -11,7 +11,8 @@ body{
 header{
     padding: 1%;
     padding-top: 2%;
-    padding-bottom: 2%;    background-color: dimgray;
+    padding-bottom: 2%;    
+    background-color: dimgray;
 }
 
 header>a{
@@ -35,7 +36,7 @@ header>a{
 }
 
 #main{
-    border-top: solid 3px blueviolet;
+    border-top: solid 3px rgb(71, 39, 100);
     padding: 5%;
     display: flex;
     flex-direction: row;
