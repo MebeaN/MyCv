@@ -2,6 +2,11 @@ body{
     background-color: #bdc3c7;
 }
 
+header>nav>a{
+    text-decoration: none;
+    padding: 1%;
+}
+
 h1{
     color: #9b59b6;
 }

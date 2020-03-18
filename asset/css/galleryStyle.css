@@ -1,19 +1,22 @@
 body{
+    background-color: skyblue;
     font-size: 15px;
     font-style: normal;
     font-family: Arial, Helvetica, sans-serif;
     position: relative;
-    left: 50px;
-    
-    border-bottom: black 5px;
+    left: 50px; 
     padding-bottom: 10px;
 }
 header{
-    text-decoration: none;
-    padding: 2%;
-    background-color: burlywood;
-}
+    background-color: dimgray;
+    padding: 1%;
+    padding-top: 2%;
+    padding-bottom: 2%;}
 
+header>a{
+    text-decoration: none;
+    padding: 1%;
+}
 
 h3 {
     text-transform: uppercase;
@@ -22,7 +25,6 @@ h3 {
 }
 img{
     border-radius: 100%;
-    
     padding: 10px;
     height: 400px;
     width: 30%;  

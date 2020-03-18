@@ -1,12 +1,24 @@
 body{
-    background-color:olive;
+    background-color: skyblue;
+    font-size: 15px;
+    font-style: normal;
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    left: 50px; 
+    padding-bottom: 10px;
 }
 
 header{
-    padding: 2%;
-    margin-bottom: 1%;
-    background-color: rosybrown;
+    padding: 1%;
+    padding-top: 2%;
+    padding-bottom: 2%;    background-color: dimgray;
 }
+
+header>a{
+    text-decoration: none;
+    padding: 1%;
+}
+
 #first{
     display: flex;
     flex-direction: row;
@@ -30,32 +42,31 @@ header{
 }
 
 #HI{
-    padding-right: 20%;
+    padding-right: 10%;
 }
 
 #dandj{
     padding-right: 10%;
+    width: 30%;
 }
 #indandj{
     display: flex;
     flex-direction: row;
+    width: 100%;
 }
 
 #dates{
-    width: 100%;
     display: flex;
     flex-direction: column;
     flex-wrap: nowrap;
+    width: 100%;
 }
 
 #jobs{
     display: flex;
     flex-direction: column;
     flex-wrap: nowrap;
-}
-
-#TS{
-    padding-left: 10%;
+    width: 100%;
 }
 
 #inTS{
