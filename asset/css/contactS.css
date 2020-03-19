@@ -64,3 +64,15 @@ form{
     width: 25%;
     margin: 2%;
 }
+
+@media (max-width:1000px){
+    body{
+        width: 100%;
+    }
+}
+
+@media (min-width:300px){
+    body{
+        width: 100%;
+    }
+}

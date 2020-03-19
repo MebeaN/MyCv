@@ -90,3 +90,15 @@ header>a{
     flex-direction: column;
     flex-wrap: nowrap;
 }
+
+@media (max-width:1000px){
+    body{
+        width: 100%;
+    }
+}
+
+@media (min-width:300px){
+    body{
+        width: 100%;
+    }
+}

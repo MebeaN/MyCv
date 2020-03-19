@@ -66,3 +66,15 @@ section{
     border-left: solid black 5px;
     border-top: solid black 5px;
 }
+
+@media (max-width:1000px){
+    body{
+        width: 100%;
+    }
+}
+
+@media (min-width:300px){
+    body{
+        width: 100%;
+    }
+}

@@ -30,3 +30,15 @@ nav>a{
     top: 35%;
     left: 3%;
 }
+
+@media (max-width:1000px){
+    body{
+        width: 100%;
+    }
+}
+
+@media (min-width:300px){
+    body{
+        width: 100%;
+    }
+}
